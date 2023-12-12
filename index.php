@@ -117,6 +117,36 @@ $(document).ready(function(){
           </div>
          
         </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="detail-box text-center">
+                    <h1>
+                      Welcome To
+                      <span>
+                        MEDI VERSE
+                      </span>
+
+                    </h1>
+                    <!-- <p>
+                      There are many variations of passages of Lorem Ipsum available, but the majority have suffered
+                      alteration in some form, by injected humour, or randomised words which don't look even slightly
+                      believable.
+                    </p> -->
+                    <div>
+                      <a href="buy.php">
+                        Shop Now
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+         
+        </div>
 
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="sr-only">Previous</span>
